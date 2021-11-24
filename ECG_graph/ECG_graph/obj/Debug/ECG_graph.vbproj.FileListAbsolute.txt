@@ -1,0 +1,14 @@
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\bin\Debug\ECG_graph.exe.config
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\bin\Debug\ECG_graph.exe
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\bin\Debug\ECG_graph.pdb
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\bin\Debug\ECG_graph.xml
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\obj\Debug\ECG_graph.vbproj.AssemblyReference.cache
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\obj\Debug\ECG_graph.Resources.resources
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\obj\Debug\ECG_graph.vbproj.GenerateResource.cache
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\obj\Debug\ECG_graph.vbproj.CoreCompileInputs.cache
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\obj\Debug\ECG_graph.exe
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\obj\Debug\ECG_graph.xml
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\obj\Debug\ECG_graph.pdb
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\obj\Debug\ECG_graph.Form1.resources
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\bin\Debug\FontAwesome.Sharp.dll
+E:\OneDrive - Institut Teknologi Sepuluh Nopember\Kuliah Teknik Elektro\Semester 3\TKE\tugas\ECG_graph\ECG_graph\obj\Debug\ECG_graph.vbproj.ResolveComReference.cache
