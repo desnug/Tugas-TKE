@@ -1,0 +1,46 @@
+main
+	ADC1_Init
+	UART1_Init_Advanced
+		Get_Fosc_kHz
+		Get_Fosc_Per_Cyc
+		Delay_100ms
+		_Multiply_32x32
+		_Modulus_32x32
+		_Divide_32x32
+	InitTimer2
+UART_RX
+	UART1_Read
+	UART1_Write_Text
+		UART1_Write
+Timer2Interrupt
+	sprintf
+		_doprntf
+			isdigit
+			scale
+				_Mul_FP
+			fround
+				_Mul_FP
+			_Compare_Le_Fp
+				_Compare_Fp
+			_Mul_FP
+			_Compare_Ge_Fp
+				_Compare_Fp
+			_Div_FP
+			_Float2Longword
+			_Long2Float
+			_Sub_FP
+				_AddSub_FP
+			_AddSub_FP
+			_Modulus_32x32
+			_Divide_32x32
+			_Float2Longint
+	UART1_Write_Text
+	ADC1_Read
+		ADC1_Init
+		ADC1_Get_Sample
+	UART1_Write
+	_Long2Float
+	_Div_FP
+	_Mul_FP
+	_AddSub_FP
+	_Sub_FP
